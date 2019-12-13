@@ -10,7 +10,7 @@ Many of today's household products such as *televisions, computers and phones* c
 >and we should face up to it."
 -Lawrence Summers
 
-![Toxic Avenger](toxic-avenger.jpg)
+![](https://github.com/mbansmithe/hello-world/blob/master/toxic-avenger.jpg)
 
 [More On Me, More On You](https://en.wikipedia.org/wiki/Toxic_waste)
 
